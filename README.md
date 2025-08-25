@@ -20,4 +20,3 @@ Downloads/
 Images/photo.jpg
 Audio/song.mp3
 Documents/notes.txt
-
