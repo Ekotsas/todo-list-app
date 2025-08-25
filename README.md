@@ -1,22 +1,29 @@
-# File Organizer
+# To-Do List App
 
-A simple Python script that organizes files in a folder into categories like **Images, Documents, Videos, Audio, Archives, Code, and Others**.
+A simple command-line To-Do List application built in Python.  
+It lets you add, view, and delete tasks, and saves them in a text file.
+
+## Features
+-  Saves tasks to `tasks.txt` automatically
+-  Add new tasks
+-  Delete tasks by number
+-  View your current to-do list
 
 ## How to Run
-1. Clone this repo or download `organizer.py`.
-2. Open terminal and run:
-3. Enter the path to the folder you want to organize.
-4. Done! Your files will be neatly sorted.
+1. Clone this repo or download `todo.py`.
+2. Run: python todo.py
+3. Use the menu to manage your tasks!
 
 ## Example
-Before:
-Downloads/
-photo.jpg
-song.mp3
-notes.txt
+=== TO-DO LIST MENU ===
 
-After:
-Downloads/
-Images/photo.jpg
-Audio/song.mp3
-Documents/notes.txt
+1. View tasks
+
+2. Add task
+
+3. Delete task
+
+4. Exit
+Choose an option: 2
+Enter new task: Finish Python project
+ Task added!
